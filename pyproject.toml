@@ -5,9 +5,10 @@ description = ""
 authors = ["xashes <xashes@outlook.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = ">=3.9,<3.10"
 pyglet = "^1.5.15"
 numpy = "^1.20.1"
+arcade = "^2.5.6"
 
 [tool.poetry.dev-dependencies]
 
