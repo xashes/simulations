@@ -3,7 +3,7 @@
 import arcade as ac
 import math
 from typing import Optional
-from person import PersonSprite
+from simulations.person import PersonSprite
 
 title = "物理引擎试验"
 
@@ -63,7 +63,7 @@ class GameWindow(ac.Window):
         self.player_list = ac.SpriteList()
         self.bullet_list = ac.SpriteList()
 
-        map_name = "../resources/map.tmx"
+        map_name = "./resources/map.tmx"
         my_map = ac.tilemap.read_tmx(map_name)
 
         self.wall_list = ac.tilemap.process_layer(
