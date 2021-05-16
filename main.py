@@ -4,7 +4,7 @@ import arcade as ac
 from typing import Optional
 from simulations.person import PersonSprite
 
-title = "物理引擎试验"
+title = "道德"
 
 sprite_image_size = 128
 
