@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import arcade as ac
-import math
 from typing import Optional
 from simulations.person import PersonSprite
 
