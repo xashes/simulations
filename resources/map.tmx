@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.5" tiledversion="1.6.0" orientation="orthogonal" renderorder="right-down" width="25" height="15" tilewidth="128" tileheight="128" infinite="0" nextlayerid="3" nextobjectid="1">
- <tileset firstgid="1" name="items" tilewidth="128" tileheight="128" tilecount="329" columns="0">
+ <tileset firstgid="1" name="items" tilewidth="195" tileheight="128" tilecount="329" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="182">
    <image width="128" height="128" source="../../../data/resources/images/items/coinBronze.png"/>
@@ -549,442 +549,442 @@
    <image width="128" height="128" source="../../../data/resources/images/tiles/waterTop_low.png"/>
   </tile>
   <tile id="364">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_boxCheckmark.png"/>
+   <image width="38" height="36" source="../../../data/resources/images/uipack_fixed/PNG/blue_boxCheckmark.png"/>
   </tile>
   <tile id="365">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_boxCross.png"/>
+   <image width="38" height="36" source="../../../data/resources/images/uipack_fixed/PNG/blue_boxCross.png"/>
   </tile>
   <tile id="366">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_boxTick.png"/>
+   <image width="36" height="36" source="../../../data/resources/images/uipack_fixed/PNG/blue_boxTick.png"/>
   </tile>
   <tile id="367">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button00.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/blue_button00.png"/>
   </tile>
   <tile id="368">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button01.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/blue_button01.png"/>
   </tile>
   <tile id="369">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button02.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/blue_button02.png"/>
   </tile>
   <tile id="370">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button03.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/blue_button03.png"/>
   </tile>
   <tile id="371">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button04.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/blue_button04.png"/>
   </tile>
   <tile id="372">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button05.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/blue_button05.png"/>
   </tile>
   <tile id="373">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button06.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/blue_button06.png"/>
   </tile>
   <tile id="374">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button07.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/blue_button07.png"/>
   </tile>
   <tile id="375">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button08.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/blue_button08.png"/>
   </tile>
   <tile id="376">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button09.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/blue_button09.png"/>
   </tile>
   <tile id="377">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button10.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/blue_button10.png"/>
   </tile>
   <tile id="378">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button11.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/blue_button11.png"/>
   </tile>
   <tile id="379">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button12.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/blue_button12.png"/>
   </tile>
   <tile id="380">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_button13.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/blue_button13.png"/>
   </tile>
   <tile id="381">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_checkmark.png"/>
+   <image width="21" height="20" source="../../../data/resources/images/uipack_fixed/PNG/blue_checkmark.png"/>
   </tile>
   <tile id="382">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_circle.png"/>
+   <image width="36" height="36" source="../../../data/resources/images/uipack_fixed/PNG/blue_circle.png"/>
   </tile>
   <tile id="383">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_cross.png"/>
+   <image width="18" height="18" source="../../../data/resources/images/uipack_fixed/PNG/blue_cross.png"/>
   </tile>
   <tile id="384">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_panel.png"/>
+   <image width="100" height="100" source="../../../data/resources/images/uipack_fixed/PNG/blue_panel.png"/>
   </tile>
   <tile id="385">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_sliderDown.png"/>
+   <image width="28" height="42" source="../../../data/resources/images/uipack_fixed/PNG/blue_sliderDown.png"/>
   </tile>
   <tile id="386">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_sliderLeft.png"/>
+   <image width="39" height="31" source="../../../data/resources/images/uipack_fixed/PNG/blue_sliderLeft.png"/>
   </tile>
   <tile id="387">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_sliderRight.png"/>
+   <image width="39" height="31" source="../../../data/resources/images/uipack_fixed/PNG/blue_sliderRight.png"/>
   </tile>
   <tile id="388">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_sliderUp.png"/>
+   <image width="28" height="42" source="../../../data/resources/images/uipack_fixed/PNG/blue_sliderUp.png"/>
   </tile>
   <tile id="389">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/blue_tick.png"/>
+   <image width="17" height="17" source="../../../data/resources/images/uipack_fixed/PNG/blue_tick.png"/>
   </tile>
   <tile id="390">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/dropdownBottom.png"/>
+   <image width="190" height="24" source="../../../data/resources/images/uipack_fixed/PNG/dropdownBottom.png"/>
   </tile>
   <tile id="391">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/dropdownMid.png"/>
+   <image width="190" height="24" source="../../../data/resources/images/uipack_fixed/PNG/dropdownMid.png"/>
   </tile>
   <tile id="392">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/dropdownTop.png"/>
+   <image width="190" height="24" source="../../../data/resources/images/uipack_fixed/PNG/dropdownTop.png"/>
   </tile>
   <tile id="393">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_boxCheckmark.png"/>
+   <image width="38" height="36" source="../../../data/resources/images/uipack_fixed/PNG/green_boxCheckmark.png"/>
   </tile>
   <tile id="394">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_boxCross.png"/>
+   <image width="38" height="36" source="../../../data/resources/images/uipack_fixed/PNG/green_boxCross.png"/>
   </tile>
   <tile id="395">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_boxTick.png"/>
+   <image width="36" height="36" source="../../../data/resources/images/uipack_fixed/PNG/green_boxTick.png"/>
   </tile>
   <tile id="396">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button00.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/green_button00.png"/>
   </tile>
   <tile id="397">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button01.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/green_button01.png"/>
   </tile>
   <tile id="398">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button02.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/green_button02.png"/>
   </tile>
   <tile id="399">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button03.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/green_button03.png"/>
   </tile>
   <tile id="400">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button04.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/green_button04.png"/>
   </tile>
   <tile id="401">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button05.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/green_button05.png"/>
   </tile>
   <tile id="402">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button06.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/green_button06.png"/>
   </tile>
   <tile id="403">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button07.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/green_button07.png"/>
   </tile>
   <tile id="404">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button08.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/green_button08.png"/>
   </tile>
   <tile id="405">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button09.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/green_button09.png"/>
   </tile>
   <tile id="406">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button10.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/green_button10.png"/>
   </tile>
   <tile id="407">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button11.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/green_button11.png"/>
   </tile>
   <tile id="408">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button12.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/green_button12.png"/>
   </tile>
   <tile id="409">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_button13.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/green_button13.png"/>
   </tile>
   <tile id="410">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_checkmark.png"/>
+   <image width="21" height="20" source="../../../data/resources/images/uipack_fixed/PNG/green_checkmark.png"/>
   </tile>
   <tile id="411">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_circle.png"/>
+   <image width="36" height="36" source="../../../data/resources/images/uipack_fixed/PNG/green_circle.png"/>
   </tile>
   <tile id="412">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_cross.png"/>
+   <image width="18" height="18" source="../../../data/resources/images/uipack_fixed/PNG/green_cross.png"/>
   </tile>
   <tile id="413">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_panel.png"/>
+   <image width="100" height="100" source="../../../data/resources/images/uipack_fixed/PNG/green_panel.png"/>
   </tile>
   <tile id="414">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_sliderDown.png"/>
+   <image width="28" height="42" source="../../../data/resources/images/uipack_fixed/PNG/green_sliderDown.png"/>
   </tile>
   <tile id="415">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_sliderLeft.png"/>
+   <image width="39" height="31" source="../../../data/resources/images/uipack_fixed/PNG/green_sliderLeft.png"/>
   </tile>
   <tile id="416">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_sliderRight.png"/>
+   <image width="39" height="31" source="../../../data/resources/images/uipack_fixed/PNG/green_sliderRight.png"/>
   </tile>
   <tile id="417">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_sliderUp.png"/>
+   <image width="28" height="42" source="../../../data/resources/images/uipack_fixed/PNG/green_sliderUp.png"/>
   </tile>
   <tile id="418">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/green_tick.png"/>
+   <image width="17" height="17" source="../../../data/resources/images/uipack_fixed/PNG/green_tick.png"/>
   </tile>
   <tile id="419">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_arrowDownGrey.png"/>
+   <image width="15" height="10" source="../../../data/resources/images/uipack_fixed/PNG/grey_arrowDownGrey.png"/>
   </tile>
   <tile id="420">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_arrowDownWhite.png"/>
+   <image width="15" height="10" source="../../../data/resources/images/uipack_fixed/PNG/grey_arrowDownWhite.png"/>
   </tile>
   <tile id="421">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_arrowUpGrey.png"/>
+   <image width="15" height="10" source="../../../data/resources/images/uipack_fixed/PNG/grey_arrowUpGrey.png"/>
   </tile>
   <tile id="422">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_arrowUpWhite.png"/>
+   <image width="15" height="10" source="../../../data/resources/images/uipack_fixed/PNG/grey_arrowUpWhite.png"/>
   </tile>
   <tile id="423">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_box.png"/>
+   <image width="38" height="36" source="../../../data/resources/images/uipack_fixed/PNG/grey_box.png"/>
   </tile>
   <tile id="424">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_boxCheckmark.png"/>
+   <image width="38" height="36" source="../../../data/resources/images/uipack_fixed/PNG/grey_boxCheckmark.png"/>
   </tile>
   <tile id="425">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_boxCross.png"/>
+   <image width="38" height="36" source="../../../data/resources/images/uipack_fixed/PNG/grey_boxCross.png"/>
   </tile>
   <tile id="426">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_boxTick.png"/>
+   <image width="36" height="36" source="../../../data/resources/images/uipack_fixed/PNG/grey_boxTick.png"/>
   </tile>
   <tile id="427">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button00.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/grey_button00.png"/>
   </tile>
   <tile id="428">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button01.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/grey_button01.png"/>
   </tile>
   <tile id="429">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button02.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/grey_button02.png"/>
   </tile>
   <tile id="430">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button03.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/grey_button03.png"/>
   </tile>
   <tile id="431">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button04.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/grey_button04.png"/>
   </tile>
   <tile id="432">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button05.png"/>
+   <image width="195" height="49" source="../../../data/resources/images/uipack_fixed/PNG/grey_button05.png"/>
   </tile>
   <tile id="433">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button06.png"/>
+   <image width="191" height="49" source="../../../data/resources/images/uipack_fixed/PNG/grey_button06.png"/>
   </tile>
   <tile id="434">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button07.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/grey_button07.png"/>
   </tile>
   <tile id="435">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button08.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/grey_button08.png"/>
   </tile>
   <tile id="436">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button09.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/grey_button09.png"/>
   </tile>
   <tile id="437">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button10.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/grey_button10.png"/>
   </tile>
   <tile id="438">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button11.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/grey_button11.png"/>
   </tile>
   <tile id="439">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button12.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/grey_button12.png"/>
   </tile>
   <tile id="440">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button13.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/grey_button13.png"/>
   </tile>
   <tile id="441">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button14.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/grey_button14.png"/>
   </tile>
   <tile id="442">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_button15.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/grey_button15.png"/>
   </tile>
   <tile id="443">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_checkmarkGrey.png"/>
+   <image width="21" height="20" source="../../../data/resources/images/uipack_fixed/PNG/grey_checkmarkGrey.png"/>
   </tile>
   <tile id="444">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_checkmarkWhite.png"/>
+   <image width="21" height="20" source="../../../data/resources/images/uipack_fixed/PNG/grey_checkmarkWhite.png"/>
   </tile>
   <tile id="445">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_circle.png"/>
+   <image width="36" height="36" source="../../../data/resources/images/uipack_fixed/PNG/grey_circle.png"/>
   </tile>
   <tile id="446">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_crossGrey.png"/>
+   <image width="18" height="18" source="../../../data/resources/images/uipack_fixed/PNG/grey_crossGrey.png"/>
   </tile>
   <tile id="447">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_crossWhite.png"/>
+   <image width="18" height="18" source="../../../data/resources/images/uipack_fixed/PNG/grey_crossWhite.png"/>
   </tile>
   <tile id="448">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_panel.png"/>
+   <image width="100" height="100" source="../../../data/resources/images/uipack_fixed/PNG/grey_panel.png"/>
   </tile>
   <tile id="449">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderDown.png"/>
+   <image width="28" height="42" source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderDown.png"/>
   </tile>
   <tile id="450">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderEnd.png"/>
+   <image width="8" height="10" source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderEnd.png"/>
   </tile>
   <tile id="451">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderHorizontal.png"/>
+   <image width="190" height="4" source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderHorizontal.png"/>
   </tile>
   <tile id="452">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderLeft.png"/>
+   <image width="39" height="31" source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderLeft.png"/>
   </tile>
   <tile id="453">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderRight.png"/>
+   <image width="39" height="31" source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderRight.png"/>
   </tile>
   <tile id="454">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderUp.png"/>
+   <image width="28" height="42" source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderUp.png"/>
   </tile>
   <tile id="455">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderVertical.png"/>
+   <image width="4" height="100" source="../../../data/resources/images/uipack_fixed/PNG/grey_sliderVertical.png"/>
   </tile>
   <tile id="456">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_tickGrey.png"/>
+   <image width="17" height="17" source="../../../data/resources/images/uipack_fixed/PNG/grey_tickGrey.png"/>
   </tile>
   <tile id="457">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/grey_tickWhite.png"/>
+   <image width="17" height="17" source="../../../data/resources/images/uipack_fixed/PNG/grey_tickWhite.png"/>
   </tile>
   <tile id="458">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_boxCheckmark.png"/>
+   <image width="38" height="36" source="../../../data/resources/images/uipack_fixed/PNG/red_boxCheckmark.png"/>
   </tile>
   <tile id="459">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_boxCross.png"/>
+   <image width="38" height="36" source="../../../data/resources/images/uipack_fixed/PNG/red_boxCross.png"/>
   </tile>
   <tile id="460">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_boxTick.png"/>
+   <image width="36" height="36" source="../../../data/resources/images/uipack_fixed/PNG/red_boxTick.png"/>
   </tile>
   <tile id="461">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button00.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/red_button00.png"/>
   </tile>
   <tile id="462">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button01.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/red_button01.png"/>
   </tile>
   <tile id="463">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button02.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/red_button02.png"/>
   </tile>
   <tile id="464">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button03.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/red_button03.png"/>
   </tile>
   <tile id="465">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button04.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/red_button04.png"/>
   </tile>
   <tile id="466">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button05.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/red_button05.png"/>
   </tile>
   <tile id="467">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button06.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/red_button06.png"/>
   </tile>
   <tile id="468">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button07.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/red_button07.png"/>
   </tile>
   <tile id="469">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button08.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/red_button08.png"/>
   </tile>
   <tile id="470">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button09.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/red_button09.png"/>
   </tile>
   <tile id="471">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button10.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/red_button10.png"/>
   </tile>
   <tile id="472">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button11.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/red_button11.png"/>
   </tile>
   <tile id="473">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button12.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/red_button12.png"/>
   </tile>
   <tile id="474">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_button13.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/red_button13.png"/>
   </tile>
   <tile id="475">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_checkmark.png"/>
+   <image width="21" height="20" source="../../../data/resources/images/uipack_fixed/PNG/red_checkmark.png"/>
   </tile>
   <tile id="476">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_circle.png"/>
+   <image width="36" height="36" source="../../../data/resources/images/uipack_fixed/PNG/red_circle.png"/>
   </tile>
   <tile id="477">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_cross.png"/>
+   <image width="18" height="18" source="../../../data/resources/images/uipack_fixed/PNG/red_cross.png"/>
   </tile>
   <tile id="478">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_panel.png"/>
+   <image width="100" height="100" source="../../../data/resources/images/uipack_fixed/PNG/red_panel.png"/>
   </tile>
   <tile id="479">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_sliderDown.png"/>
+   <image width="28" height="42" source="../../../data/resources/images/uipack_fixed/PNG/red_sliderDown.png"/>
   </tile>
   <tile id="480">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_sliderLeft.png"/>
+   <image width="39" height="31" source="../../../data/resources/images/uipack_fixed/PNG/red_sliderLeft.png"/>
   </tile>
   <tile id="481">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_sliderRight.png"/>
+   <image width="39" height="31" source="../../../data/resources/images/uipack_fixed/PNG/red_sliderRight.png"/>
   </tile>
   <tile id="482">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_sliderUp.png"/>
+   <image width="28" height="42" source="../../../data/resources/images/uipack_fixed/PNG/red_sliderUp.png"/>
   </tile>
   <tile id="483">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/red_tick.png"/>
+   <image width="17" height="17" source="../../../data/resources/images/uipack_fixed/PNG/red_tick.png"/>
   </tile>
   <tile id="484">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_boxCheckmark.png"/>
+   <image width="38" height="36" source="../../../data/resources/images/uipack_fixed/PNG/yellow_boxCheckmark.png"/>
   </tile>
   <tile id="485">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_boxCross.png"/>
+   <image width="38" height="36" source="../../../data/resources/images/uipack_fixed/PNG/yellow_boxCross.png"/>
   </tile>
   <tile id="486">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_boxTick.png"/>
+   <image width="36" height="36" source="../../../data/resources/images/uipack_fixed/PNG/yellow_boxTick.png"/>
   </tile>
   <tile id="487">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button00.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button00.png"/>
   </tile>
   <tile id="488">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button01.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button01.png"/>
   </tile>
   <tile id="489">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button02.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button02.png"/>
   </tile>
   <tile id="490">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button03.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button03.png"/>
   </tile>
   <tile id="491">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button04.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button04.png"/>
   </tile>
   <tile id="492">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button05.png"/>
+   <image width="190" height="45" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button05.png"/>
   </tile>
   <tile id="493">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button06.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button06.png"/>
   </tile>
   <tile id="494">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button07.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button07.png"/>
   </tile>
   <tile id="495">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button08.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button08.png"/>
   </tile>
   <tile id="496">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button09.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button09.png"/>
   </tile>
   <tile id="497">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button10.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button10.png"/>
   </tile>
   <tile id="498">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button11.png"/>
+   <image width="49" height="49" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button11.png"/>
   </tile>
   <tile id="499">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button12.png"/>
+   <image width="49" height="45" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button12.png"/>
   </tile>
   <tile id="500">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_button13.png"/>
+   <image width="190" height="49" source="../../../data/resources/images/uipack_fixed/PNG/yellow_button13.png"/>
   </tile>
   <tile id="501">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_checkmark.png"/>
+   <image width="21" height="20" source="../../../data/resources/images/uipack_fixed/PNG/yellow_checkmark.png"/>
   </tile>
   <tile id="502">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_circle.png"/>
+   <image width="36" height="36" source="../../../data/resources/images/uipack_fixed/PNG/yellow_circle.png"/>
   </tile>
   <tile id="503">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_cross.png"/>
+   <image width="18" height="18" source="../../../data/resources/images/uipack_fixed/PNG/yellow_cross.png"/>
   </tile>
   <tile id="504">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_panel.png"/>
+   <image width="100" height="100" source="../../../data/resources/images/uipack_fixed/PNG/yellow_panel.png"/>
   </tile>
   <tile id="505">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_sliderDown.png"/>
+   <image width="28" height="42" source="../../../data/resources/images/uipack_fixed/PNG/yellow_sliderDown.png"/>
   </tile>
   <tile id="506">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_sliderLeft.png"/>
+   <image width="39" height="31" source="../../../data/resources/images/uipack_fixed/PNG/yellow_sliderLeft.png"/>
   </tile>
   <tile id="507">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_sliderRight.png"/>
+   <image width="39" height="31" source="../../../data/resources/images/uipack_fixed/PNG/yellow_sliderRight.png"/>
   </tile>
   <tile id="508">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_sliderUp.png"/>
+   <image width="28" height="42" source="../../../data/resources/images/uipack_fixed/PNG/yellow_sliderUp.png"/>
   </tile>
   <tile id="509">
-   <image source="../../../data/resources/images/uipack_fixed/PNG/yellow_tick.png"/>
+   <image width="17" height="17" source="../../../data/resources/images/uipack_fixed/PNG/yellow_tick.png"/>
   </tile>
   <tile id="510">
    <image width="128" height="128" source="de.png"/>
@@ -992,12 +992,12 @@
  </tileset>
  <layer id="1" name="Platforms" width="25" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2BkA0ZGBgYmIGZmJF4tsepHASpgBYYZOxpmoWI4gsz/D6R/oOF/DNSxB5f5yBjdHnVGCAaB71AxNizhAMOEzIf5B5d+EOYAYgC+mRl3
+   eJxjYBgFo2BkA0ZGBgYmIGZmJF4tsepHASpgBYYZOxpmoWI4gsz/D6R/oOF/DNSxB5f5+OxRZ4RgEPgOFWPDEg4wjM98ZHtw6QdhDiAGAMHhGX0=
   </data>
  </layer>
  <layer id="2" name="Dynamic Items" width="25" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFwxlcI0LNDiC+QKb5t+hgxw062EEp2EEF/TBMjB3/GYkz9zQZ7iDVDnT9hPxBDiDVH4MV0NMfAGskE6Y=
+   eJxjYBgFwxlcI0LNDiC+QKb5/xmHhx2Ugh1U0A/DxNgBChNiwGky3AEDN0nUC9NPyB/kAFL9MVgBPf0BADDaE80=
   </data>
  </layer>
 </map>

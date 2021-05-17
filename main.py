@@ -3,6 +3,7 @@
 import arcade as ac
 from typing import Optional
 from simulations.person import PersonSprite
+import random
 
 title = "道德"
 
@@ -12,6 +13,7 @@ sprite_scaling_player = 0.5
 sprite_scaling_tiles = 0.5
 
 sprite_size = int(sprite_image_size * sprite_scaling_player)
+font = 'resources/msyhl.ttc'
 
 # Size of grid to show on screen, in number of tiles
 screen_grid_width = 25
@@ -124,6 +126,15 @@ class GameWindow(ac.Window):
             self.left_pressed = False
         elif symbol == ac.key.RIGHT:
             self.right_pressed = False
+
+    def on_mouse_press(self, x: float, y: float, button: int, modifiers: int):
+        colors = [ac.color.DEEP_SKY_BLUE, ac.color.CYAN, ac.color.PURPLE_HEART]
+        color = random.choice(colors)
+        text = ac.draw_text('德', x, y, color, font_size=64, font_name=font, bold=True, rotation=random.randrange(360))
+        self.item_list.append(text)
+        self.physics_engine.add_sprite_list(
+            self.item_list, friction=dynamic_item_friction, collision_type='item'
+        )
 
     def on_update(self, delta_time: float):
         """ Movement and game logic """
